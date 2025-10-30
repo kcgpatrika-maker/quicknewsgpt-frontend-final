@@ -1,0 +1,1 @@
+Quick NewsGPT Frontend - deploy-ready (Vite + React)\n\nSteps:\n1) unzip and inspect src/config.js to change BACKEND_URL if needed\n2) create GitHub repo and push files\n3) on Vercel: Import Project -> select repo -> Deploy (Framework: Vite)\n
